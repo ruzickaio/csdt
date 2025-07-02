@@ -51,7 +51,7 @@ The project is **static** – suitable for GitHub Pages, Vercel, Netlify, or you
 
 Author: [Jakub Růžička](https://ruzickajakub.cz)  
 Email: [csdt@vics.cz](mailto:csdt@vics.cz)  
-GitHub: [@csdt](https://github.com/csdt)
+GitHub: [@csdt](https://github.com/ruzickaio/csdt)
 
 ## 📄 License
 
