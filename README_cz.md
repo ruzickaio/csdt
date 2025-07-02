@@ -52,7 +52,7 @@ Projekt je **statický** – vhodný pro GitHub Pages, Vercel, Netlify nebo vlas
 
 Autor: [Jakub Růžička](https://ruzickajakub.cz)  
 Email: [csdt@vics.cz](mailto:csdt@vics.cz)  
-GitHub: [@csdt](https://github.com/csdt)
+GitHub: [@csdt](https://github.com/ruzickaio/csdt)
 
 ## 📄 Licence
 
