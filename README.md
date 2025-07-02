@@ -1,4 +1,4 @@
-# 🌐 CSDT Portfolio — Cascade Scroll-Driven Triggers UI System
+# CSDT Portfolio — Cascade Scroll-Driven Triggers UI System
 
 CSDT (Cascade Scroll-Driven Triggers) is an advanced, animated web framework—or rather, a static aio-template focused on modern design, performance, and a smooth user experience. It leverages the [GSAP](https://greensock.com/gsap/) library (including ScrollTrigger) for scroll-based animations and offers a responsive content presentation.
 
